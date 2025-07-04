@@ -15,17 +15,12 @@ ESP8266 mini (6 Stück)
 [https://funduinoshop.com/en/electronic-modules/wireless-iot/esp-wifi/wemos-d1-mini-nodemcu-lua-wifi-esp8266-development-board](https://funduinoshop.com/en/electronic-modules/wireless-iot/esp-wifi/wemos-d1-mini-nodemcu-lua-wifi-esp8266-development-board)
 
 
+## Todo
 
-\## Todo
+### Versuchsaufbau machen
 
-
-
-\### Versuchsaufbau machen
-
-
-
-* Tags an genauer Position festkleben
-* ...
+- Tags an genauer Position festkleben
+- ...
 
 
 
