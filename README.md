@@ -1,5 +1,10 @@
 # carrera-bahn-stau-simulator
 
+## Aufbau
+
+Hier der Aufbau in einem Drawing von ExcalDraw:
+<https://excalidraw.com/#room=24f6770fdbf78b3d32c7,81xEUfPUe7m3yJ3ZLXmCHA>
+
 ## Einkaufsliste
 
 RFID-Tags (20 Stück)
