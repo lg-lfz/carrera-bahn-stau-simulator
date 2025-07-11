@@ -1,41 +1,59 @@
-# Prerequisites
-*.d
+# PlatformIO
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.pio.build/
 
-# Compiled Object files
-*.slo
-*.lo
+# Compiled files
 *.o
-*.obj
+*.elf
+*.bin
+*.hex
 
-# Precompiled Headers
-*.gch
-*.pch
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
 
-# Linker files
-*.ilk
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 
-# Debugger Files
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Build artifacts
+build/
+dist/
+*.map
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
 *.pdb
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Personal configuration
+secrets.h
+credentials.h
+config_local.h
