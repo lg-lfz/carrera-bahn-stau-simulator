@@ -67,9 +67,11 @@ Um den RFID-Reader PN532 an den ESP 8266 D1 mini anzuschliessen, müssen wir fol
 ---------------------
 
 PN532 DIP-Schalter Einstellung:
-Schalter 1: ON (SPI-Modus)
-Schalter 2: OFF
+Schalter 1: OFF
+Schalter 2: ON (SPI-Modus)
 ```
+
+![DIP-Schalter Einstallungen](./assets/pn532.png)
 
 ## Einkaufsliste
 
