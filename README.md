@@ -50,6 +50,27 @@ Ziehst Du den ESP8266 vom USB-Port ab, sollte der Eintrag verschwinden.
 Hier der Aufbau in einem Drawing von ExcalDraw:
 <https://excalidraw.com/#room=24f6770fdbf78b3d32c7,81xEUfPUe7m3yJ3ZLXmCHA>
 
+### Anschliessen de RFID-Readers an den ESP
+
+Um den RFID-Reader PN532 an den ESP 8266 D1 mini anzuschliessen, müssen wir folgende Leitungen verbinden (Wir nehmen das SPI (Serial Peripheral Interface), das ist schneller als die I2C Schnittstelle):
+
+```bash
+---------------------
+|PN532 | ESP8266    |
+---------------------
+|VCC   | 3.3V       |
+|GND   | GND        |
+|SCK   | D5 (GPIO14)|
+|MISO  | D6 (GPIO12)|
+|MOSI  | D7 (GPIO13)|
+|SS    | D3 (GPIO00)|
+---------------------
+
+PN532 DIP-Schalter Einstellung:
+Schalter 1: ON (SPI-Modus)
+Schalter 2: OFF
+```
+
 ## Einkaufsliste
 
 RFID-Tags (20 Stück)
