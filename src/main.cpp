@@ -22,10 +22,10 @@ void loop() {
   // LED einschalten (LOW = an, da die interne LED invertiert ist)
   digitalWrite(LED_BUILTIN, LOW);
   Serial.println("LED AN");
-  delay(1000);
+  delay(100);
   
   // LED ausschalten (HIGH = aus)
   digitalWrite(LED_BUILTIN, HIGH);
   Serial.println("LED AUS");
-  delay(1000);
+  delay(100);
 }
