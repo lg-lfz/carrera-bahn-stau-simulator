@@ -1,5 +1,50 @@
 # carrera-bahn-stau-simulator
 
+## Software zum Programmieren
+
+### Git
+
+Um unser Projekt von Github.com auf unseren Rechner zu *clonen* brauchen wir **git**.
+
+Der Download ist hier:
+https://git-scm.com/downloads
+
+Hast Du **Git** installiert, so musst Du es noch konfigurieren.
+Öffne dazu die *Git Bash* und tippe folgendes in die Konsole ein:
+
+```bash
+git config --global user.name "Dein Name"
+git config --global user.email "deineMail@provider.com"
+```
+
+Damit haben wir **Git** konfiguriert und können weiter machen.
+
+### Visual Studio Code 
+
+**Visual Studio Code** ist die Entwicklungsumgebung (IDE).
+
+Der Download ist hier:
+https://code.visualstudio.com/
+
+In der Entwicklungsumgebung gibt es eine Extension, die wir installieren: PlatformIO.
+Auf der linken Seite von der Entwicklungsumgebung findet man *Extensions*, dort kann man PlatformIO suchen und installieren.
+
+### CH340 Treiber für USB2Serial
+
+Der ESP8266 D1 mini hat einen USB2Serial Chip verbaut. Dies ist normalerweise der CH340.
+Für diesen Chip braucht man unter Windows einen Treiber, den man hier downloaden kann:
+
+https://www.wemos.cc/en/latest/ch340_driver.html
+
+Nach dem Download musst Du das Zip-Archiv entpacken und die *Setup.exe* starten.
+Dann wird der Treiber für den Chip installiert.
+
+Hast Du den ESP8266 D1 mini im PC eingesteckt, sollte im Gerätemanager so ein Eintrag erscheinen:
+
+![CH340 Chip im Gerätemanager richtig erkannt](./assets/geraetemanager.png)
+
+Ziehst Du den ESP8266 vom USB-Port ab, sollte der Eintrag verschwinden.
+
 ## Aufbau
 
 Hier der Aufbau in einem Drawing von ExcalDraw:
