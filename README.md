@@ -22,6 +22,7 @@ Dieses 3D Modell soll als Grundlage dienen das Chassis anzupassen: [3D Modell](.
 
 [Tuning](https://slotcar-3d.de/produkt/3d-tuningchassischassis-132-fuer-slotcar-carrera-bmw-m1-procar)
 Car Slot Maintainance [YouTube Video](https://www.youtube.com/watch?v=z-db9KXGT7E)
+Slot Cars Digital Carrera Chip 26732 [z.B. JaSpeed](https://www.jaspeed.com/Digitaldecoder-Carrera-132-Digital-Digitalchip-26732_3)
 
 ## Software zum Programmieren
 
