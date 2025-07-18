@@ -1,5 +1,23 @@
 # carrera-bahn-stau-simulator
 
+## Carerra Bahn D 132
+
+Die Carrera Bahn ist eine Carrera Digital 132
+
+<img src=".\assets\bahn.jpg" alt="bahn" style="zoom: 19%;" />
+
+Das hier ist die Unterseite:
+
+<img src=".\assets\bahn_unterseite.jpg" alt="bahn" style="zoom: 10%;" />
+
+Auto chassis:
+
+
+
+<img src=".\assets\D132-BMW_M4_GT3-oben.jpg" alt="Auto von oben" style="zoom:15%;" />
+
+<img src=".\assets\D132-BMW_M4_GT3-unten.jpg" alt="Auto von oben" style="zoom:15%;" />
+
 ## Software zum Programmieren
 
 ### Git
