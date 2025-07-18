@@ -18,6 +18,10 @@ Auto chassis:
 
 <img src=".\assets\D132-BMW_M4_GT3-unten.jpg" alt="Auto von oben" style="zoom:15%;" />
 
+
+
+Dieses 3D Modell soll als Grundlage dienen das Chassis anzupassen: [3D Modell](./assets/Podvozek_R03_v13.stl)
+
 ## Software zum Programmieren
 
 ### Git
