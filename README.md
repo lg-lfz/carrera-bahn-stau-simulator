@@ -12,14 +12,15 @@ Das hier ist die Unterseite:
 
 Auto chassis:
 
+<img src=".\assets\D132-BMW_M4_GT3-oben.jpg" alt="Auto von oben" style="zoom:10%;" />
 
-
-<img src=".\assets\D132-BMW_M4_GT3-oben.jpg" alt="Auto von oben" style="zoom:15%;" />
-
-<img src=".\assets\D132-BMW_M4_GT3-unten.jpg" alt="Auto von oben" style="zoom:15%;" />
+<img src=".\assets\D132-BMW_M4_GT3-unten.jpg" alt="Auto von oben" style="zoom:10%;" />
 
 Dieses 3D Modell soll als Grundlage dienen das Chassis anzupassen: [3D Modell](./assets/Podvozek_R03_v13.stl)
 
+### Linksammlung
+
+[Tuning](https://slotcar-3d.de/produkt/3d-tuningchassischassis-132-fuer-slotcar-carrera-bmw-m1-procar)
 Car Slot Maintainance [YouTube Video](https://www.youtube.com/watch?v=z-db9KXGT7E)
 
 ## Software zum Programmieren
